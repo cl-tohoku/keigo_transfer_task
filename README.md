@@ -1,0 +1,2 @@
+# keigo_transfer_task
+敬語変換タスクにおける評価用データセット
